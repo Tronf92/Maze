@@ -1,0 +1,11 @@
+C:\Users\Ady\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.Form1.resources
+C:\Users\Ady\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.Form2.resources
+C:\Users\Ady\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.Resources.resources
+C:\Users\Ady\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.vbproj.GenerateResource.Cache
+C:\Users\Ady\Documents\Visual Studio 2012\Projects\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\Ady\Documents\Visual Studio 2012\Projects\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\Ady\Documents\Visual Studio 2012\Projects\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\Ady\Documents\Visual Studio 2012\Projects\Maze\Maze\bin\Debug\Maze.xml
+C:\Users\Ady\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\Ady\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.xml
+C:\Users\Ady\Documents\Visual Studio 2012\Projects\Maze\Maze\obj\Debug\Maze.pdb
